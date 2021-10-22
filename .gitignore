@@ -1,0 +1,6 @@
+Makefile
+/obj
+/bin
+example.make
+gpm.make
+gpm_example.make
